@@ -13,4 +13,6 @@ A port of Snes9x-gtk to PS2
 
 5) smscddvd (Clone repository at "https://github.com/jhonathanc/smscdvd" then "make && make install");
 
-6) modules.tgz: A tar.gz file with IRX files on root of it, renamed to modules.tgz. Put it inside "YOUR_FOLDER/snes9x/ps2/".
+6) Go to "$PS2DEV/ps2sdk/ee/lib/", do a copy of "libc.a" and rename the copy to "libn.a".
+
+7) modules.tgz: A tar.gz file with IRX files on root of it, renamed to modules.tgz. Put it inside "YOUR_FOLDER/snes9x/ps2/".
