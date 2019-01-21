@@ -10,3 +10,5 @@ gsKit (Follow the instrucitions on gsKit readme to install it: https://github.co
 image (Clone repository on "https://github.com/jhonathanc/image" then "make && make install").
 
 smscddvd (Clone repository on "https://github.com/jhonathanc/smscdvd" then "make && make install").
+
+modules.tgz: A tar.gz file with IRX files on root of it, renamed to modules.tgz.
